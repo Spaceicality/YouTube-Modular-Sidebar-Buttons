@@ -1,5 +1,5 @@
 # YouTube Modular Sidebar Buttons
-Userscript that allows custom Sidebar buttons to be added
+Userscript that allows custom Sidebar buttons to be added to YouTube
 
 | Updates  | Release Notes |
 | ------------- | ------------- |
